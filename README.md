@@ -49,7 +49,7 @@ Este projeto visa atiangir objetivos a respeito de boas praticas no github
     Este projeto esta em andamento desde o dia 24/04/1904
     em andamento até o presente momnento...
 
-    em contrucao :rocket:=]
+    Em contruâo :rocket:
 
 </p> 
 
