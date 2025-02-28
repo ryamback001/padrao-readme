@@ -46,21 +46,85 @@ Este projeto visa atiangir objetivos a respeito de boas praticas no github
 <p id = "statusdoProjeto" > </p>
 
 <p >
-    Este projeto esta em andamento desde o dia 24/04/1904
-    em andamento até o presente momnento...
-
-    Em contruâo :rocket:
+    
+Este projeto Markdown tem como objetivo criar uma documentação simples e acessível para o desenvolvimento de um aplicativo de gerenciamento de tarefas. Utilizando a linguagem Markdown, buscamos oferecer uma estrutura clara e organizada para facilitar a leitura e o entendimento do projeto. A documentação será dividida em seções como introdução, requisitos, instalação, uso e contribuição, permitindo que qualquer desenvolvedor compreenda rapidamente o funcionamento do aplicativo. Além disso, será incluída uma lista de funcionalidades e exemplos práticos, para ajudar na integração e implementação. A ideia é fornecer um ponto de partida que seja fácil de navegar e colaborar, utilizando o formato minimalista do Markdown. O projeto também incluirá instruções sobre como executar o código, bem como informações sobre como os usuários podem contribuir para melhorias. Ao longo da documentação, será dado destaque à clareza, simplicidade e concisão, características que tornam o Markdown uma excelente ferramenta para esse tipo de projeto. Com isso, espera-se otimizar a colaboração e facilitar a manutenção do aplicativo.
 
 </p> 
+
+<h4> 
+
+</h4>
+
+
+<h4  align = center> Em contrução 🚀 </h4>
 
 ## Tabela de Conteúdos
 
 <ul>
     <li><a href="#descrição-do-projeto"> Descrição do Projeto </a></li>
-    <li><a href="#"> Status do Projeto </a></li>
+    <li><a href="#statusdoProjeto"> Status do Projeto </a></li>
+    <li><a href="#prerequisito"> Pré-requisitos </a></li>
+    <li><a href="#executarprojeto"> Executar o Projeto📔 </a></li>
+    <li><a href="#mapaprojeto"> Mapa do Projeto 🗺️🗾 </a></li>
+    <li><a href="#tecnologiautilizada"> Tecnologias Utilizada ⚒️ </a></li>
 </ul>
 
-<p align = "center">
+<!-- <p align = "center">
     <a href="#descrição-do-projeto"> Descrição do Projeto </a> |
     <a href="#statusdoProjeto"> Status do Projeto </a>
-</p>
+</p> -->
+
+<p id = "apendice" > </p>
+
+## APÊNDICE
+
+- [X] README com Markdown
+- [ ] README com HTML
+- [ ] Badge
+
+<p id = "prerequisito" > </p>
+
+## Pré-requisitos
+
+
+- [VS Code](https://code.visualstudio.com/docs/setup/windows)
+- [GIT](https://git-scm.com/downloads)
+
+<p id = "executarprojeto" > </p>
+
+## Executar o Projeto 📔
+<!-- tecnologia usado no codigo c, csharp, html... -->
+
+```bash 
+
+# clone do repo
+git clone <path do repositorio>
+
+# acessa a pasta
+cd meu-projeto
+
+# abrir vscode <no path>
+code .
+
+
+```
+<p id = "mapaprojeto" > </p>
+
+## Mapa do Projeto 🗺️🗾
+```bash
++---img           // contém as imagerns
++---temp          // pasta temp para gerar tree
+ª   +---temp-1    // pasta temp para gerar tree
+ª   +---temp-2    // pasta temp para gerar tree
++---temp copy     // pasta temp para gerar tree
+    +---temp-1    // pasta temp para gerar tree
+    +---temp-2    // pasta temp para gerar tree
+```
+
+
+<p id = "tecnologiautilizada" > </p>
+
+## Tecnologias Utilizada ⚒️
+
+- [HTML](https://www.w3schools.com/html/)
+- [MARKDOWN](https://www.markdownguide.org/)
